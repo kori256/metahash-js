@@ -30,10 +30,10 @@
   "dependencies": {
     "bn.js": "^5.2.0",
     "crypto-js": "^4.1.1",
-    "dohdec": "^5.0.3",
+    "dohdec": "3",
     "elliptic": "^6.5.4",
     "key-encoder": "^2.0.3",
-    "node-fetch": "^3.2.0"
+    "node-fetch": "2"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.1",
